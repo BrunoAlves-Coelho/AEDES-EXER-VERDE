@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1712188957 source:c:\users\bruno coelho\onedrive\Área de trabalho\projetos_aed _1_c\unidade 5\exerverde\ex03\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1712408153 source:c:\users\bruno\onedrive\Área de trabalho\projetos_aed _1_c\unidade 5\exerverde\ex03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
